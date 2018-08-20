@@ -62,7 +62,9 @@ A curated list of awesome software for ubuntu.
 * [Charles](https://www.charlesproxy.com/) - Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 
 ## Office
+* [WPS Office](https://www.wps.com/office-free) - The perfect free office software.
 * [LibreOffice](https://www.libreoffice.org/) - Open source office suite.
+* [OpenOffice](https://www.openoffice.org/) - The Free and Open Productivity Suite.
   
 ## Browser
 * [Chrome](https://www.google.com/chrome/) - One fast, simple and secure browser for all your devices.
@@ -81,19 +83,18 @@ A curated list of awesome software for ubuntu.
 * [StarUML](http://staruml.io/) - Powerful UML app.
 
 ## Email
-
+* [Thunderbird](www.mozilla.org/thunderbird/) - Thunderbird is a free email application that's easy to set up and customize.
 ## FTP
 * [FileZilla](https://filezilla-project.org/) - The free FTP solution.
 
 ## Zip
+* [7-Zip](https://www.7-zip.org/) - 7-Zip is free software with open source.
 
 ## Block Chain
 * [Ethereum Wallet](https://www.ethereum.org/) - The Ethereum Wallet is a gateway to decentralized applications on the Ethereum blockchain.
 
 ## Virtualization
 * [VirtualBox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
-* [VMware Fusion](https://www.vmware.com/products/fusion.html) - Powerfully Simple Virtual Machine for Mac.
-* [Parallels Desktop](https://www.parallels.com/products/desktop/) - Run Windows on Your Mac.
 * [Vagrant](https://www.vagrantup.com/) - Tool for building and distributing development environments.
 * [Docker](https://www.docker.com/products/docker-desktop) - Docker Desktop is the easiest way to run Docker.
 
