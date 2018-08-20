@@ -10,6 +10,7 @@ A curated list of awesome software for ubuntu.
     - [Markdown](#markdown)
     - [PDF](#pdf)
     - [Terminal](#terminal)
+    - [Note](#note)
     - [ToDo](#todo)
     - [Audio & Video](#audio--video)
     - [DB Management](#db-management)
@@ -49,6 +50,7 @@ A curated list of awesome software for ubuntu.
 * [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor for MacOS, Linux, and Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub.
 * [Android Studio](https://developer.android.com/studio/) - The official IDE for Android, based on Intellij IDEA.
 * [NetBeans IDE](https://netbeans.org/) - Free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks.
+* [CodeBlock](http://www.codeblocks.org/) - Codeblocks is a cross-platform IDE built around wxWidgets, designed to be extensible and configurable. Runs on Windows and Linux.
 * [TexMaker](http://www.xm1math.net/texmaker/) - Texmaker is a free, modern and cross-platform LaTeX editor.
 
 ## Markdown
@@ -60,6 +62,9 @@ A curated list of awesome software for ubuntu.
 
 ## Terminal
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - Provides rock-solid terminal emulation for computing professionals, raising productivity with advanced session management.
+
+## Note
+* [WizNote](https://www.wiz.cn/) - A cross-platform cloud based note-taking client.
 
 ## ToDo
 * [Todoist](https://github.com/kamhix/todoist-linux) - Unofficial client of Todoist, the Cross-platform to-do manager with mobile apps, great UI and has some optional premium features
@@ -95,6 +100,7 @@ A curated list of awesome software for ubuntu.
 * [XMind](https://www.xmind.net/) - XMind is designed to generate ideas, inspire creativity, make your thoughts from disorder to order, bring you efficiency both in work and life.
 * [Gliffy Diagrams](https://www.gliffy.com/) - Gliffy online tools power visual communication and collaboration.
 * [Process On](https://www.processon.com/) - Free online mapping, real-time collaboration.
+* [Draw.io](https://www.draw.io/) - Draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [StarUML](http://staruml.io/) - Powerful UML app.
 
 ## Email
@@ -115,6 +121,7 @@ A curated list of awesome software for ubuntu.
 
 ## Manual
 * [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. Comes with 192 awesome docsets!
+* [ChmSee](https://github.com/jungleji/chmsee) - ChmSee is an HTML Help viewer for Unix/Linux.
 
 ## VCS
 * [Gitkraken](https://www.gitkraken.com/) - Git GUI for Windows, Mac & Linux.
@@ -139,6 +146,6 @@ A curated list of awesome software for ubuntu.
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
 * [tmux](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen.
 * [sshw](https://github.com/yinheli/sshw) - SSH client wrapper for automatic login.
-* [Teamviewer](https://www.teamviewer.com/) - PC remote control/remote access software, free for personal use.
+* [TeamViewer](https://www.teamviewer.com/) - PC remote control/remote access software, free for personal use.
 * [RecordMyDesktop](http://recordmydesktop.sourceforge.net/) - RecordMyDesktop is a desktop session recorder for GNU/Linux and FreeBSD.
 
