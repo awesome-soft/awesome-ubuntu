@@ -72,6 +72,9 @@ A curated list of awesome software for ubuntu.
 ## Audio & Video
 * [VLC](https://www.videolan.org/) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 * [Kdenlive](https://kdenlive.org/) - Kdenlive is an open source video editor.
+* [Darktable](https://www.darktable.org/) - darktable is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers.
+* [HandBrake](https://handbrake.fr/) - HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video transcoder.
+* [Ardour](https://ardour.org/) - Ardour is a hard disk recorder and digital audio workstation application.
 
 ## DB Management
  * [Navicat](https://www.navicat.com/) - Powerful database management & design tool for Win, macOS & Linux. With intuitive GUI, user manages MySQL, PostgreSQL, MongoDB, MariaDB, SQL Server, Oracle & SQLite DB easily.
@@ -131,7 +134,7 @@ A curated list of awesome software for ubuntu.
 * [Postman](https://www.getpostman.com/) - Postman Makes API Development Simple.
 
 ## Productivity
-* [Writer Pro](https://ia.net/writer) - iA Writer creates a clean, simple and distraction-free writing environment for when you really need to focus on your words.
+* [Albert](https://albertlauncher.github.io/docs/installing/) -Albert is a launcher that lets you open files, run applications, perform web ... install, configure, and use the Albert launcher on Ubuntu Linux. 
 
 ## Security
 * [Encryptr](https://spideroak.com/encryptr/) - Encryptr is a zero-knowledge, cloud-based e-wallet / password manager powered by Crypton.
