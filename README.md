@@ -78,6 +78,7 @@ A curated list of awesome software for ubuntu.
 * [Darktable](https://www.darktable.org/) - darktable is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers.
 * [HandBrake](https://handbrake.fr/) - HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video transcoder.
 * [Ardour](https://ardour.org/) - Ardour is a hard disk recorder and digital audio workstation application.
+* [Kazam](https://launchpad.net/kazam) - Kazam is a simple screen recording program that will capture the content of your screen and record a video file.
 
 ## DB Management
  * [Navicat](https://www.navicat.com/) - Powerful database management & design tool for Win, macOS & Linux. With intuitive GUI, user manages MySQL, PostgreSQL, MongoDB, MariaDB, SQL Server, Oracle & SQLite DB easily.
@@ -160,5 +161,4 @@ A curated list of awesome software for ubuntu.
 * [Docky](http://www.go-docky.com/) - Docky is an advanced shortcut bar that sits at the edges of your screen. It provides easy access to some of the files, folders and applications on your computer.
 * [Steam](https://github.com/luongvo209/Awesome-Linux-Software/blob/master/steampowered.com) - Gaming store, which opens the gates to many games.
 * [Shutter](http://shutter-project.org/) - Feature-rich Screenshot Tool.
-* [Kazam](https://launchpad.net/kazam) - Kazam is a simple screen recording program that will capture the content of your screen and record a video file.
 
