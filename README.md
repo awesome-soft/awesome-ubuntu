@@ -5,10 +5,13 @@ A curated list of awesome software for ubuntu.
 ### Toc
 - [Awesome Soft for Ubuntu](#awesome-soft-for-ubuntu)
         - [Toc](#toc)
+    - [Desktop Environment](#desktop-environment)
     - [IDE & Editor](#ide--editor)
     - [Markdown](#markdown)
+    - [PDF](#pdf)
     - [Terminal](#terminal)
     - [ToDo](#todo)
+    - [Audio & Video](#audio--video)
     - [DB Management](#db-management)
     - [Network Analysis](#network-analysis)
     - [Office](#office)
@@ -20,6 +23,7 @@ A curated list of awesome software for ubuntu.
     - [Zip](#zip)
     - [Block Chain](#block-chain)
     - [Virtualization](#virtualization)
+    - [Manual](#manual)
     - [VCS](#vcs)
     - [Api Managemant](#api-managemant)
     - [Productivity](#productivity)
@@ -27,6 +31,9 @@ A curated list of awesome software for ubuntu.
     - [Proxy & VPN](#proxy--vpn)
     - [Others](#others)
 
+
+## Desktop Environment
+* [Gnome](https://www.gnome.org/) - The Gnome desktop environment.
 
 ## IDE & Editor
 * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
@@ -42,15 +49,24 @@ A curated list of awesome software for ubuntu.
 * [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor for MacOS, Linux, and Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub.
 * [Android Studio](https://developer.android.com/studio/) - The official IDE for Android, based on Intellij IDEA.
 * [NetBeans IDE](https://netbeans.org/) - Free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks.
+* [TexMaker](http://www.xm1math.net/texmaker/) - Texmaker is a free, modern and cross-platform LaTeX editor.
 
 ## Markdown
 * [Typora](https://typora.io/#linux) - A markdown editor, markdown reader.
+* [Remarkable](https://remarkableapp.github.io/) - A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM).
+
+## PDF
+* [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Free PDF Reader & PDF Viewer.
 
 ## Terminal
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - Provides rock-solid terminal emulation for computing professionals, raising productivity with advanced session management.
 
 ## ToDo
-* [2Do](http://www.2doapp.com/) - Nice todo app.
+* [Todoist](https://github.com/kamhix/todoist-linux) - Unofficial client of Todoist, the Cross-platform to-do manager with mobile apps, great UI and has some optional premium features
+
+## Audio & Video
+* [VLC](https://www.videolan.org/) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+* [Kdenlive](https://kdenlive.org/) - Kdenlive is an open source video editor.
 
 ## DB Management
  * [Navicat](https://www.navicat.com/) - Powerful database management & design tool for Win, macOS & Linux. With intuitive GUI, user manages MySQL, PostgreSQL, MongoDB, MariaDB, SQL Server, Oracle & SQLite DB easily.
@@ -72,8 +88,7 @@ A curated list of awesome software for ubuntu.
 * [Chromium](https://www.chromium.org) - Open-source, free web browser project by Google, to provide the source code for Google Chrome.
 
 ## Design
-* [Sketch](https://www.sketchapp.com/) - Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.
-* [Photoshop](https://www.photoshop.com/) - Adobe Photoshop software is the industry standard in digital imaging and is used worldwide for design, photography, video editing and more.
+* [GIMP](https://www.gimp.org/) - GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software.
 * [FontForge](http://fontforge.github.io/) - Free, open-source font editor.
 
 ## UML
@@ -98,8 +113,11 @@ A curated list of awesome software for ubuntu.
 * [Vagrant](https://www.vagrantup.com/) - Tool for building and distributing development environments.
 * [Docker](https://www.docker.com/products/docker-desktop) - Docker Desktop is the easiest way to run Docker.
 
+## Manual
+* [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. Comes with 192 awesome docsets!
+
 ## VCS
-* [Sourcetree](https://www.sourcetreeapp.com/) - Simplicity and power in a beautiful Git GUI.
+* [Gitkraken](https://www.gitkraken.com/) - Git GUI for Windows, Mac & Linux.
 * [Gitlab](https://about.gitlab.com/) - GitLab is a web-based Git-repository manager with wiki, issue-tracking and CI/CD pipeline features, using an open-source license, developed by GitLab Inc.
   
 ## Api Managemant
@@ -109,7 +127,8 @@ A curated list of awesome software for ubuntu.
 * [Writer Pro](https://ia.net/writer) - iA Writer creates a clean, simple and distraction-free writing environment for when you really need to focus on your words.
 
 ## Security
-* [1Password](https://1password.com/) - A password manager, digital vault, form filler and secure digital wallet.
+* [Encryptr](https://spideroak.com/encryptr/) - Encryptr is a zero-knowledge, cloud-based e-wallet / password manager powered by Crypton.
+* [Pass](https://www.passwordstore.org/) - The standard Unix password manager.
 
 ## Proxy & VPN
 * [ShadowsocksX](http://shadowsocks.org/) - Secure socks5 proxy, designed to protect your internet traffic.
@@ -120,4 +139,6 @@ A curated list of awesome software for ubuntu.
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
 * [tmux](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen.
 * [sshw](https://github.com/yinheli/sshw) - SSH client wrapper for automatic login.
+* [Teamviewer](https://www.teamviewer.com/) - PC remote control/remote access software, free for personal use.
+* [RecordMyDesktop](http://recordmydesktop.sourceforge.net/) - RecordMyDesktop is a desktop session recorder for GNU/Linux and FreeBSD.
 
