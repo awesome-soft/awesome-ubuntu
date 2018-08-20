@@ -61,6 +61,7 @@ A curated list of awesome software for ubuntu.
 * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Free PDF Reader & PDF Viewer.
 
 ## Terminal
+* [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - Feature filled terminal emulator that supports tabs and grids.
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - Provides rock-solid terminal emulation for computing professionals, raising productivity with advanced session management.
 
 ## Note
@@ -100,6 +101,7 @@ A curated list of awesome software for ubuntu.
 * [FontForge](http://fontforge.github.io/) - Free, open-source font editor.
 
 ## UML
+* [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) - FreeMind is a free mind mapping application written in Java.
 * [XMind](https://www.xmind.net/) - XMind is designed to generate ideas, inspire creativity, make your thoughts from disorder to order, bring you efficiency both in work and life.
 * [Gliffy Diagrams](https://www.gliffy.com/) - Gliffy online tools power visual communication and collaboration.
 * [Process On](https://www.processon.com/) - Free online mapping, real-time collaboration.
@@ -152,4 +154,6 @@ A curated list of awesome software for ubuntu.
 * [TeamViewer](https://www.teamviewer.com/) - PC remote control/remote access software, free for personal use.
 * [RecordMyDesktop](http://recordmydesktop.sourceforge.net/) - RecordMyDesktop is a desktop session recorder for GNU/Linux and FreeBSD.
 * [Docky](http://www.go-docky.com/) - Docky is an advanced shortcut bar that sits at the edges of your screen. It provides easy access to some of the files, folders and applications on your computer.
+* [Steam](https://github.com/luongvo209/Awesome-Linux-Software/blob/master/steampowered.com) - Gaming store, which opens the gates to many games.
+* [Shutter](http://shutter-project.org/) - Feature-rich Screenshot Tool.
 
