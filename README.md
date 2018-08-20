@@ -52,6 +52,7 @@ A curated list of awesome software for ubuntu.
 * [NetBeans IDE](https://netbeans.org/) - Free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks.
 * [CodeBlock](http://www.codeblocks.org/) - Codeblocks is a cross-platform IDE built around wxWidgets, designed to be extensible and configurable. Runs on Windows and Linux.
 * [Qt Creator](https://github.com/qt-creator/qt-creator) - A cross-platform Qt IDE.
+* [KDevelop](https://www.kdevelop.org/) - KDevelop, a featureful, plugin-extensible IDE for C/C++ and other programming languages.
 * [TexMaker](http://www.xm1math.net/texmaker/) - Texmaker is a free, modern and cross-platform LaTeX editor.
 
 ## Markdown
