@@ -51,6 +51,7 @@ A curated list of awesome software for ubuntu.
 * [Android Studio](https://developer.android.com/studio/) - The official IDE for Android, based on Intellij IDEA.
 * [NetBeans IDE](https://netbeans.org/) - Free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks.
 * [CodeBlock](http://www.codeblocks.org/) - Codeblocks is a cross-platform IDE built around wxWidgets, designed to be extensible and configurable. Runs on Windows and Linux.
+* [Qt Creator](https://github.com/qt-creator/qt-creator) - A cross-platform Qt IDE.
 * [TexMaker](http://www.xm1math.net/texmaker/) - Texmaker is a free, modern and cross-platform LaTeX editor.
 
 ## Markdown
