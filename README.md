@@ -117,6 +117,7 @@ A curated list of awesome software for ubuntu.
 
 ## Zip
 * [7-Zip](https://www.7-zip.org/) - 7-Zip is free software with open source.
+* [p7zip](http://p7zip.sourceforge.net/) - p7zip is a port of 7za.exe for POSIX systems like Unix.
 
 ## Block Chain
 * [Ethereum Wallet](https://www.ethereum.org/) - The Ethereum Wallet is a gateway to decentralized applications on the Ethereum blockchain.
@@ -159,4 +160,5 @@ A curated list of awesome software for ubuntu.
 * [Docky](http://www.go-docky.com/) - Docky is an advanced shortcut bar that sits at the edges of your screen. It provides easy access to some of the files, folders and applications on your computer.
 * [Steam](https://github.com/luongvo209/Awesome-Linux-Software/blob/master/steampowered.com) - Gaming store, which opens the gates to many games.
 * [Shutter](http://shutter-project.org/) - Feature-rich Screenshot Tool.
+* [Kazam](https://launchpad.net/kazam) - Kazam is a simple screen recording program that will capture the content of your screen and record a video file.
 
