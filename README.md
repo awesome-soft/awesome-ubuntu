@@ -151,4 +151,5 @@ A curated list of awesome software for ubuntu.
 * [sshw](https://github.com/yinheli/sshw) - SSH client wrapper for automatic login.
 * [TeamViewer](https://www.teamviewer.com/) - PC remote control/remote access software, free for personal use.
 * [RecordMyDesktop](http://recordmydesktop.sourceforge.net/) - RecordMyDesktop is a desktop session recorder for GNU/Linux and FreeBSD.
+* [Docky](http://www.go-docky.com/) - Docky is an advanced shortcut bar that sits at the edges of your screen. It provides easy access to some of the files, folders and applications on your computer.
 
