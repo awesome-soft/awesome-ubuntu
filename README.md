@@ -24,7 +24,7 @@ A curated list of awesome software for ubuntu.
     - [Zip](#zip)
     - [Virtualization](#virtualization)
     - [Manual](#manual)
-    - [VCS](#vcs)
+    - [SCM](#scm)
     - [Api Managemant](#api-managemant)
     - [Productivity](#productivity)
     - [Security](#security)
@@ -128,9 +128,10 @@ A curated list of awesome software for ubuntu.
 * [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. Comes with 192 awesome docsets!
 * [ChmSee](https://github.com/jungleji/chmsee) - ChmSee is an HTML Help viewer for Unix/Linux.
 
-## VCS
+## SCM
 * [Gitkraken](https://www.gitkraken.com/) - Git GUI for Windows, Mac & Linux.
 * [Gitlab](https://about.gitlab.com/) - GitLab is a web-based Git-repository manager with wiki, issue-tracking and CI/CD pipeline features, using an open-source license, developed by GitLab Inc.
+* [Gogs](https://gogs.io/) - A painless self-hosted Git service.
   
 ## Api Managemant
 * [Postman](https://www.getpostman.com/) - Postman Makes API Development Simple.
