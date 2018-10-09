@@ -22,7 +22,6 @@ A curated list of awesome software for ubuntu.
     - [Email](#email)
     - [FTP](#ftp)
     - [Zip](#zip)
-    - [Block Chain](#block-chain)
     - [Virtualization](#virtualization)
     - [Manual](#manual)
     - [VCS](#vcs)
@@ -119,9 +118,6 @@ A curated list of awesome software for ubuntu.
 ## Zip
 * [7-Zip](https://www.7-zip.org/) - 7-Zip is free software with open source.
 * [p7zip](http://p7zip.sourceforge.net/) - p7zip is a port of 7za.exe for POSIX systems like Unix.
-
-## Block Chain
-* [Ethereum Wallet](https://www.ethereum.org/) - The Ethereum Wallet is a gateway to decentralized applications on the Ethereum blockchain.
 
 ## Virtualization
 * [VirtualBox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
