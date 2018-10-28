@@ -29,6 +29,7 @@ A curated list of awesome software for ubuntu.
     - [Productivity](#productivity)
     - [Security](#security)
     - [Proxy & VPN](#proxy--vpn)
+    - [Fun](#fun)
     - [Others](#others)
 
 
@@ -147,6 +148,9 @@ A curated list of awesome software for ubuntu.
 * [ShadowsocksX](http://shadowsocks.org/) - Secure socks5 proxy, designed to protect your internet traffic.
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
 
+## Fun
+* [Steam](http://store.steampowered.com/) - Gaming store, which opens the gates to many games.
+
 ## Others
 * [Oh My Zsh](https://ohmyz.sh/) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
 * [htop](https://hisham.hm/htop/) - This is htop, an interactive process viewer for Unix systems.
@@ -156,6 +160,5 @@ A curated list of awesome software for ubuntu.
 * [TeamViewer](https://www.teamviewer.com/) - PC remote control/remote access software, free for personal use.
 * [RecordMyDesktop](http://recordmydesktop.sourceforge.net/) - RecordMyDesktop is a desktop session recorder for GNU/Linux and FreeBSD.
 * [Docky](http://www.go-docky.com/) - Docky is an advanced shortcut bar that sits at the edges of your screen. It provides easy access to some of the files, folders and applications on your computer.
-* [Steam](http://store.steampowered.com/) - Gaming store, which opens the gates to many games.
 * [Shutter](http://shutter-project.org/) - Feature-rich Screenshot Tool.
 
