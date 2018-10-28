@@ -156,6 +156,6 @@ A curated list of awesome software for ubuntu.
 * [TeamViewer](https://www.teamviewer.com/) - PC remote control/remote access software, free for personal use.
 * [RecordMyDesktop](http://recordmydesktop.sourceforge.net/) - RecordMyDesktop is a desktop session recorder for GNU/Linux and FreeBSD.
 * [Docky](http://www.go-docky.com/) - Docky is an advanced shortcut bar that sits at the edges of your screen. It provides easy access to some of the files, folders and applications on your computer.
-* [Steam](https://github.com/luongvo209/Awesome-Linux-Software/blob/master/steampowered.com) - Gaming store, which opens the gates to many games.
+* [Steam](http://store.steampowered.com/) - Gaming store, which opens the gates to many games.
 * [Shutter](http://shutter-project.org/) - Feature-rich Screenshot Tool.
 
