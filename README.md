@@ -54,6 +54,7 @@ A curated list of awesome software for ubuntu.
 * [Qt Creator](https://github.com/qt-creator/qt-creator) - A cross-platform Qt IDE.
 * [KDevelop](https://www.kdevelop.org/) - KDevelop, a featureful, plugin-extensible IDE for C/C++ and other programming languages.
 * [TexMaker](http://www.xm1math.net/texmaker/) - Texmaker is a free, modern and cross-platform LaTeX editor.
+* [Brackets](http://brackets.io/) - A modern, open source text editor for web design.
 
 ## Markdown
 * [Typora](https://typora.io/#linux) - A markdown editor, markdown reader.
@@ -68,6 +69,7 @@ A curated list of awesome software for ubuntu.
 
 ## Note
 * [WizNote](https://www.wiz.cn/) - A cross-platform cloud based note-taking client.
+* [Simplenote](https://simplenote.com/) - A simple cross-platform app to keep notes, synced across devices.
 
 ## ToDo
 * [Todoist](https://github.com/kamhix/todoist-linux) - Unofficial client of Todoist, the Cross-platform to-do manager with mobile apps, great UI and has some optional premium features
