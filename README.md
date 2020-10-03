@@ -65,6 +65,7 @@ A curated list of awesome software for ubuntu.
 ## Terminal
 * [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - Feature filled terminal emulator that supports tabs and grids.
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - Provides rock-solid terminal emulation for computing professionals, raising productivity with advanced session management.
+* [Terminus](https://eugeny.github.io/terminus/) - A highly configurable terminal emulator.
 
 ## Note
 * [WizNote](https://www.wiz.cn/) - A cross-platform cloud based note-taking client.
@@ -93,6 +94,7 @@ A curated list of awesome software for ubuntu.
 * [WPS Office](https://www.wps.com/office-free) - The perfect free office software.
 * [LibreOffice](https://www.libreoffice.org/) - Open source office suite.
 * [OpenOffice](https://www.openoffice.org/) - The Free and Open Productivity Suite.
+* [OnlyOffice](https://www.onlyoffice.com/download-desktop.aspx) - Free and Open Source Desktop editors.
   
 ## Browser
 * [Chrome](https://www.google.com/chrome/) - One fast, simple and secure browser for all your devices.
@@ -113,6 +115,7 @@ A curated list of awesome software for ubuntu.
 
 ## Email
 * [Thunderbird](www.mozilla.org/thunderbird/) - Thunderbird is a free email application that's easy to set up and customize.
+* [MailSpring](https://getmailspring.com/) - Mailspring is a desktop email client with modern features like unified inbox, snoozing, reminders, templates, offline search, and support for Gmail labels.
 ## FTP
 * [FileZilla](https://filezilla-project.org/) - The free FTP solution.
 
